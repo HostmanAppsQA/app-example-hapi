@@ -4,7 +4,7 @@
 
 Пример приложения [Hapi](https://hapi.dev/), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
 
-:tada: [Демо](https://timeweb-cloud-app-example-hapi-b18c.twc1.net)
+:tada: [Демо](https://twc-app-example-hapi.twc1.net/)
 
 :rocket: [Создать свой Apps](https://timeweb.cloud/my/apps/create)
 
